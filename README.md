@@ -2,7 +2,7 @@
 
 i have included every basic need like
 
-```diff
+
 - add a cart 
 - remove cart 
 - payment system 
@@ -15,7 +15,7 @@ i have included every basic need like
 - order 
 - replace 
 
-```
+
 
 
 # How to Run 
