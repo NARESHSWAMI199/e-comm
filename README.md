@@ -2,19 +2,18 @@
 
 i have included every basic need like
 
-```
---color
-<font color="blue"> add a cart </font>
-<font color="blue"> remove cart </font>
-<font color="blue"> payment system </font>
-<font color="green">  checkout </font>
-<font color="green"> product return </font>
-<font color="green"> authenctication </font>
-<font color="green"> cupon </font>
-<font color="green"> discount </font>
-<font color="green"> addresses billing & shipping </font>
-<font color="blue"> order </font>
-<font color="blue"> replace </font>
+```diff
+- add a cart 
+- remove cart 
+- payment system 
+- checkout 
+- product return 
+- authenctication 
+-  cupon 
+- discount 
+- addresses billing & shipping 
+- order 
+- replace 
 
 ```
 
