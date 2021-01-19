@@ -2,7 +2,7 @@
 
 i have included every basic need like
 
-[cart]
+- [cart]
 - [payment system]
 - [checkout]
 - [product return]
