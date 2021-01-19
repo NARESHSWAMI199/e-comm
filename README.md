@@ -1,9 +1,9 @@
 # e-comm
 
 i have included every basic need like
+
+```
 --color
-
-
 <font color="blue"> add a cart </font>
 <font color="blue"> remove cart </font>
 <font color="blue"> payment system </font>
@@ -16,7 +16,7 @@ i have included every basic need like
 <font color="blue"> order </font>
 <font color="blue"> replace </font>
 
-
+```
 
 
 # How to Run 
