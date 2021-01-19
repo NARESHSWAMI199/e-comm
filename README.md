@@ -1,7 +1,7 @@
 # e-comm
 
 i have included every basic need like
-```diff
+--color
 
 
 <font color="blue"> add a cart </font>
@@ -16,7 +16,7 @@ i have included every basic need like
 <font color="blue"> order </font>
 <font color="blue"> replace </font>
 
-```
+
 
 
 # How to Run 
