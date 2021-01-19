@@ -3,17 +3,17 @@
 i have included every basic need like
 
 
-- add a cart 
-- remove cart 
-- payment system 
-- checkout 
-- product return 
-- authenctication 
--  cupon 
-- discount 
-- addresses billing & shipping 
-- order 
-- replace 
+- add a cart(#add a cart) 
+- remove cart(#remove cart) 
+- payment system(#payment system) 
+- checkout(#checkout) 
+- product return(#product return) 
+- authenctication(#authenctication) 
+-  cupon(#cupon)  
+- discount(#discount)  
+- addresses billing & shipping(#addresses billing & shipping)  
+- order(#order)  
+- replace(#replace)  
 
 
 
