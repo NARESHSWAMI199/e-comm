@@ -3,15 +3,15 @@
 i have included every basic need like
 
 
-- [add a cart](#add a cart) 
-- [remove cart](#remove cart) 
-- [payment system](#payment system) 
+- [add a cart](#add) 
+- [remove cart](#remove) 
+- [payment system](#payment) 
 - [checkout](#checkout) 
-- [product return](#product return) 
+- [product return](#product) 
 - [authenctication](#authenctication) 
 - [cupon](#cupon)  
 - [discount](#discount)  
-- [addresses billing & shipping](#addresses billing & shipping)  
+- [addresses billing & shipping](#addresses)  
 - [order](#order)  
 - [order replace](#replace)  
 
