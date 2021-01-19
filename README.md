@@ -1,8 +1,9 @@
 # e-comm
 
 i have included every basic need like
-
+```
 - @@cart@@
+```
 - [payment system]
 - [checkout]
 - [product return]
