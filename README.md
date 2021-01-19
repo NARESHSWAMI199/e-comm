@@ -2,17 +2,17 @@
 
 i have included every basic need like
 ```diff
-- add a cart
-- remove cart
-- payment system
-- checkout
-- product return
-- authenctication
-- cupon
-- discount
-- addresses billing & shipping
-- order
-- replace
+add a cart
+remove cart
+payment system
+checkout
+product return
+authenctication
+cupon
+discount
+addresses billing & shipping
+order
+replace
 ```
 
 
