@@ -2,7 +2,7 @@
 
 i have included every basic need like
 ```
-- @@cart@@
+@@cart@@
 ```
 - [payment system]
 - [checkout]
@@ -52,7 +52,7 @@ used for get user country name
 - install pillow 
 
 ```
-$ pip install django-countries
+$ pip install pillow
 ```
 this is a python module used for images. you must need when you use image with python
 
