@@ -2,15 +2,18 @@
 
 i have included every basic need like
 ```diff
-@@cart@@
+- add a cart
+- remove cart
+- payment system
+- checkout
+- product return
+- authenctication
+- cupon
+- discount
+- addresses billing & shipping
+- order
+- replace
 ```
-- [payment system]
-- [checkout]
-- [product return]
-- [authenctication]
-- [cupon]
-- [remove cart]
-- [addresses billing & shipping]
 
 
 # How to Run 
