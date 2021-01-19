@@ -1,5 +1,16 @@
 # e-comm
 
+i have included every basic need like
+
+- [cart]
+- [payment system]
+- [checkout]
+- [product return]
+- [authenctication]
+- [cupon]
+- [remove cart]
+- [addresses billing & shipping]
+
 
 # How to Run 
 - install django
@@ -44,8 +55,12 @@ $ pip install django-countries
 ```
 this is a python module used for images. you must need when you use image with python
 
+- finally run 
 
-  
+```
+$ python manage.py runserver
+```
+
 
 
 
